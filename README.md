@@ -72,7 +72,8 @@ Exemplo:
 3. No shell Ubuntu (busque Ubuntu no Iniciar do Windows):
 4. Instalar os pacotes para o nodejs:
 
-```sudo apt update
+```
+sudo apt update
 sudo apt upgrade
 sudo apt install nodejs
 sudo apt install npm
